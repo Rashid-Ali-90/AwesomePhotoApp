@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Awesome Photo</string>
+    <string name="author_name">Author Name:</string>
+    <string name="description">Description:</string>
+</resources>
